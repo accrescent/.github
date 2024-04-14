@@ -19,7 +19,7 @@ and privacy practices and offering robust validity guarantees for installed apps
 - **App signing key pinning**: first-time app installs are verified so you don't have to [TOFU](https://en.wikipedia.org/wiki/Trust_on_first_use).
 - **Signed repository metadata**: repository contents are protected against malicious tampering.
 - **Automatic, unattended, unprivileged updates (Android 12+)**: updates are handled seamlessly without relying on privileged OS integration.
-- **First-class support for split APKs**: downloaded APKs are optimized for your device to save bandwidth.
+- **Designed for split APKs**: downloaded APKs are optimized for your device to save bandwidth.
 - **No remote APK signing**: developers are in full control of their app signing keys.
 - **No account required**: users don't need an account to install apps, improving privacy.
 
