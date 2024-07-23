@@ -31,6 +31,9 @@ Accrescent currently runs on Android 10 and up.
 
 [Download Accrescent](https://accrescent.app/accrescent.apk)
 
+Accrescent can also be downloaded from the [GrapheneOS](https://grapheneos.org) App Store. This is
+the recommended approach for GrapheneOS users.
+
 ## Social
 
 Accrescent has multiple community chat rooms on Matrix and Twitter and Mastodon accounts for
