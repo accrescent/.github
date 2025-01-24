@@ -36,7 +36,7 @@ the recommended approach for GrapheneOS users.
 
 ## Social
 
-Accrescent has multiple community chat rooms on Matrix and Twitter and Mastodon accounts for
+Accrescent has multiple community chat rooms on Matrix and Twitter, Mastodon, and Bluesky accounts for
 announcements. All source code is published on GitHub
 
 - [Matrix (main room)](https://matrix.to/#/#accrescent:matrix.org)
